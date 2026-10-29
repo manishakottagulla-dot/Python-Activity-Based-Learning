@@ -6,7 +6,7 @@ Branch: CSE (AI & ML).
 Institution: Dr. RVR NRI Institution Of Technology.
 
 
-#Selected  Cases Studies
+# Selected  Case Studies
 
 Case Study 1 : University Scholarship Allocaton.
 Case Study 2 : Progressive Electricity Billing.
